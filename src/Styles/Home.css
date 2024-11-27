@@ -1,0 +1,16 @@
+/* Home.css */
+.home-button {
+    background-color: #ff66b2; /* Pink color */
+    padding: 1rem 2rem;
+    border-radius: 8px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.2rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .home-button:hover {
+    background-color: #ff3385; /* Slightly darker pink */
+  }
+  
